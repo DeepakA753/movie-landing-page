@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/movie-landing-page/static/css/main.5f8a6303.css",
+    "main.js": "/movie-landing-page/static/js/main.a4474913.js",
+    "index.html": "/movie-landing-page/index.html",
+    "main.5f8a6303.css.map": "/movie-landing-page/static/css/main.5f8a6303.css.map",
+    "main.a4474913.js.map": "/movie-landing-page/static/js/main.a4474913.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f8a6303.css",
+    "static/js/main.a4474913.js"
+  ]
+}
