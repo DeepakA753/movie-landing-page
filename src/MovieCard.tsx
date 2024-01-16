@@ -9,7 +9,6 @@ interface MovieProps {
 }
 
 const MovieCard: React.FC<{ movie: MovieProps }> = ({ movie }) => {
- console.log(movie)
     return (
         <div className='movie'>
             <div>
